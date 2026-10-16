@@ -1,22 +1,17 @@
-# Análise e Qualidade de Dados de Clientes
+# FINANCASPro — Gestão Financeira Pessoal
 
-## Objetivo
-Desenvolver um processo de análise de dados para identificar inconsistências cadastrais e melhorar a qualidade de uma base de clientes.
+Aplicação desenvolvida para organizar e acompanhar finanças pessoais, centralizando receitas, despesas, cartões, parcelas e histórico financeiro.
+
+## Funcionalidades
+- Controle de receitas e despesas.
+- Gestão de cartões e compras parceladas.
+- Histórico financeiro mensal.
+- Sincronização de dados na nuvem com Supabase.
+- Backup e recuperação de informações financeiras.
 
 ## Tecnologias
-- Python
-- Pandas
-- Excel
+- HTML, CSS e JavaScript
+- Supabase
 
-## Etapas da análise
-- Tratamento e padronização dos dados.
-- Identificação de registros duplicados.
-- Verificação de valores ausentes.
-- Detecção de inconsistências.
-- Geração de indicadores de qualidade da base.
-
-## Resultados esperados
-Produzir uma base mais consistente e confiável, facilitando análises e apoiando a tomada de decisão.
-
-## Observação
-Projeto demonstrativo desenvolvido com dados fictícios, sem utilização de informações confidenciais ou dados pessoais reais.
+## Objetivo
+Desenvolver uma solução prática para gestão financeira, com foco na organização de dados, automação de processos e acessibilidade das informações.
